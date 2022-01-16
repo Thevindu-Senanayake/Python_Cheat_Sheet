@@ -1,0 +1,11 @@
+1.What is difference between method and function
+    function can be used with multiple objects
+    for a example "print" function can be use with "int" "float" objects not only with string objects 
+    when a function belongs to somethig else, or is specific to some king of object we refer to that function as a method 
+    for a example "upper" is method that can be only use with string
+
+2.what is difference between arguments and parameters
+    argument is a value that we provide into a parameter in a functionor method
+
+3.what is call atributes
+    a variable that belogns to certain object in certain class called atributes
